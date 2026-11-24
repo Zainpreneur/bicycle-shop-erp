@@ -1,0 +1,9 @@
+{
+  "name": "bicycle-shop-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "bicycle-shop-erp",
+  "scripts": {
+    "start": "echo \"No root entrypoint; inspect repository contents\""
+  }
+}
